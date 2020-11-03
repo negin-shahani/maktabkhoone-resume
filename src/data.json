@@ -1,0 +1,88 @@
+{
+    "tilte": "Hello I'm Negin!",
+    "subtitle": "Front End developer | Editor | computer engineering student",
+    "links": {
+        "github": "https://github.com/negin-titanium",
+        "twitter": "https://twitter.com/TaesJudy",
+        "email": "https://neginshahany@gmail.com",
+        "linkedin": "https://www.linkedin.com/in/negin-shahani-7180ab19a"
+    },
+    "sections": [
+        {
+            "title": "About",
+            "items": [
+                {
+                    "type": "P",
+                    "content": "I'm a computer engineering student at Guilan University , spending my senior year. "
+                },
+                {
+                    "type": "P",
+                    "content": "I'm into web developing , network ,  Big Data and AI."
+                },
+                {
+                    "type": "P",
+                    "content": "In addition , I am in the top ten in my major , i ranked 6 in the previous semester."
+                },
+                {
+                    "type": "P",
+                    "content": "I believe that i am a multipotentialite. it means that i have many different interests and creative pursuits in life."
+                },
+                {
+                    "type": "P",
+                    "content": "So at this stage of my life , I'm trying to find something that makes my life alittle more interesting and also flexible because i want to merge my abilities and make the best of my life!"
+                }
+            ]
+        },
+        {
+            "title": "skills",
+            "items": [
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/React.png",
+                        "title": "React"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/javascript.png",
+                        "title": "Javascript"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/html.png",
+                        "title": "HTML"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/css.png",
+                        "title": "CSS"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/java.png",
+                        "title": "Java"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/mysql.png",
+                        "title": "SQL"
+                    }
+                }
+            ]
+        }
+    ],
+    "icons": {
+        "down": "images/caret-down.png",
+        "magic": "images/magic.png"
+    }
+}
